@@ -1,0 +1,24 @@
+{
+  "name": "console-chat-application-using-net",
+  "version": "1.0.0",
+  "description": "A simple console chat application using net module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toukirahmeds/console-chat-application-using-net.git"
+  },
+  "keywords": [
+    "console",
+    "chat",
+    "net"
+  ],
+  "author": "toukirahmeds@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toukirahmeds/console-chat-application-using-net/issues"
+  },
+  "homepage": "https://github.com/toukirahmeds/console-chat-application-using-net#readme"
+}
